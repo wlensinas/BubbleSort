@@ -1,0 +1,10 @@
+C:\Users\wlens\OneDrive\Documents\Visual Studio 2015\Projects\bubbleSort\bubbleSort\bin\Debug\bubbleSort.exe.config
+C:\Users\wlens\OneDrive\Documents\Visual Studio 2015\Projects\bubbleSort\bubbleSort\obj\Debug\bubbleSort.exe
+C:\Users\wlens\OneDrive\Documents\Visual Studio 2015\Projects\bubbleSort\bubbleSort\obj\Debug\bubbleSort.xml
+C:\Users\wlens\OneDrive\Documents\Visual Studio 2015\Projects\bubbleSort\bubbleSort\obj\Debug\bubbleSort.pdb
+C:\Users\wlens\OneDrive\Documents\Visual Studio 2015\Projects\bubbleSort\bubbleSort\bin\Debug\bubbleSort.exe
+C:\Users\wlens\OneDrive\Documents\Visual Studio 2015\Projects\bubbleSort\bubbleSort\bin\Debug\bubbleSort.pdb
+C:\Users\wlens\OneDrive\Documents\Visual Studio 2015\Projects\bubbleSort\bubbleSort\bin\Debug\bubbleSort.xml
+C:\Users\wlens\OneDrive\Documents\Visual Studio 2015\Projects\bubbleSort\bubbleSort\obj\Debug\bubbleSort.vbprojResolveAssemblyReference.cache
+C:\Users\wlens\OneDrive\Documents\Visual Studio 2015\Projects\bubbleSort\bubbleSort\obj\Debug\bubbleSort.Resources.resources
+C:\Users\wlens\OneDrive\Documents\Visual Studio 2015\Projects\bubbleSort\bubbleSort\obj\Debug\bubbleSort.vbproj.GenerateResource.Cache
