@@ -1,4 +1,4 @@
-# BubbleSort
+# Bubble Sort
 Implementation of [bubble sort algorithm](https://en.wikipedia.org/wiki/Bubble_sort) in Visual Basic.NET
 
 I add four forms of implementation this algorithm.
